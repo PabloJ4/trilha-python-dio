@@ -1,1 +1,3 @@
-# Trilha Python DIO
+## Trilha Python DIO
+
+**Exemplos abordados na trilha de python**
